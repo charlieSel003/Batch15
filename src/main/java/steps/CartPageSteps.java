@@ -16,7 +16,11 @@ public class CartPageSteps {
 	}
 	@Given("^User Added the Product to cart Faded Shorts$")
 	public void user_Added_the_Product_to_cart_Faded_Shorts() throws Throwable {
+ 
 		hp.clickwomen3444();
+
+		hp.clickwomen1222();
+
 		
 		
 	    
